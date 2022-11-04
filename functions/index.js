@@ -24,6 +24,7 @@ exports.createAuthUser = functions.https.onCall((data) => {
       });
 });
 
+
 exports.deleteAuthUser = functions.https.onCall((uid) => {
   return admin.auth().deleteUser(uid)
       .catch((error) => {

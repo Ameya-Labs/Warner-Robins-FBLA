@@ -1,5 +1,5 @@
 {
-    "name": "fblachaptermanagementplatform",
+    "name": "warnerrobinsfbla",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -14,7 +14,8 @@
         "cdbreact": "^1.5.1",
         "dotenv": "^16.0.0",
         "dotenv-webpack": "^7.1.0",
-        "firebase": "^9.7.0",
+        "firebase": "^9.13.0",
+        "firebase-tools": "^11.16.0",
         "fs": "^0.0.1-security",
         "ics": "^2.40.0",
         "os": "^0.1.2",
