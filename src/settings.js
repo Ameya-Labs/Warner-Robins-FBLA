@@ -4,20 +4,30 @@ const APPLICATION_VARIABLES = {
   APP_NAME:"Warner Robins FBLA",
   APP_LINK:"https://warnerrobinsfbla.web.app/",
   CHAPTER_WEBSITE:"https://wrhs.hcbe.net/fbla",
-  LANDING_PAGE_DESCRIPTION: "Short chapter description or promotional text here.",
+  LANDING_PAGE_DESCRIPTION: "WRHS FBLA is the premier organization for Warner Robins High's student leaders interested in careers in business.",
   DEFAULT_PASSWORD:"FBLAChapter123",
 
   // Membership
   // EXCLUDE_FEATURES codes -> COMP_EVENTS, (more coming soon)
   MEMBERSHIPS: [
     {
-      TYPE: 'LEVEL 1',
-      PRICE: '20',
+      TYPE: 'Future',
+      PRICE: '25',
       EXCLUDE_FEATURES: [],
     },
     {
-      TYPE: 'LEVEL 2',
-      PRICE: '35',
+      TYPE: 'Business',
+      PRICE: '55',
+      EXCLUDE_FEATURES: [],
+    },
+    {
+      TYPE: 'Leader',
+      PRICE: '115',
+      EXCLUDE_FEATURES: [],
+    },
+    {
+      TYPE: 'America',
+      PRICE: '165',
       EXCLUDE_FEATURES: [],
     },
   ],
