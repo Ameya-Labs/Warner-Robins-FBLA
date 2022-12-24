@@ -1,4 +1,4 @@
-## Introduction
+## Introduction 
 
 The FBLA CMP is a management platform for local GA FBLA chapters across topics like membership, chapter meetings, competitive events, elections, and more! The platform is capable of managing users with member, officer, or adviser permissions, and can be fully customized for each local chapter.
 
